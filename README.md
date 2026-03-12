@@ -31,6 +31,7 @@ __Tools__ contains services, apps, references, and specific tools that help lear
 - [Data Storage](#data-storage)
 - [Flash Cards](#flash-cards)
 - [Office Suites](#office-suites)
+- [Research/Citations](#researchcitations)
 
 ### Classroom/Course Management
 - [Casper Focus](http://www.jamfsoftware.com/products/casper-focus/) - _Paid part of [JAMF Casper Suite](http://www.jamfsoftware.com/products/casper-suite/)_ __iOS__ - Teacher focused Mobile Device Management tool. Allows a teacher to lock a students iOS device down to a single app or webpage, can prompt them to AirPlay, or clear a passcode if needed.
@@ -60,3 +61,6 @@ __Tools__ contains services, apps, references, and specific tools that help lear
   - [Free EDU Upgrade](https://www.lucidpress.com/pages/usecase/education)
 - [Lucidchart](https://www.lucidchart.com) - _Free for Education_ __Web__ - Web based charting. Can sign on with Google Apps account.
   - [Free EDU Upgrade](https://www.lucidchart.com/pages/usecase/education)
+
+### Research/Citations
+- [CiteMe](https://citeme.app) - _Free, paid upgrades_ __Web, Chrome, Firefox__ - AI-powered academic citation generator. Searches 250M+ papers across 11 databases (OpenAlex, PubMed, Semantic Scholar, etc.) and formats in 40+ citation styles (APA, MLA, Chicago, Harvard, ABNT).
